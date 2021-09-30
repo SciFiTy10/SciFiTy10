@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SciFiTy10
+- 👋 Hi, I’m Ty
 - 👀 I’m interested in building products that make people's lives easier
 - 🌱 I’m currently learning TypeScript, NextJS, and improving my skills with web accessibility
 - 📫 You can contact me by message on <a href="https://www.linkedin.com/in/tyler-ridings-24804585/">LinkedIn</a>
